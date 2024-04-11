@@ -9,7 +9,7 @@
 
 <body>
   <div>
-    <h1>11111111111111111111111</h1>
+    <h1>99999</h1>
   </div>
   
   <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
@@ -20,7 +20,7 @@
       </button>
      
       <div>
-    <h1>11111111111111111111111</h1>
+    <h1>55</h1>
   </div>
      
       <div class="collapse navbar-collapse " id="collapsibleNavbar">
@@ -33,7 +33,7 @@
           </li>
 
           <div>
-    <h1>000000000000000</h1>
+    <h1>44</h1>
   </div>
   
         </ul>
