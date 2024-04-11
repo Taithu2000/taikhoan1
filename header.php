@@ -26,6 +26,11 @@
       </div>
     </div>
   </nav>
+
+<div><h1>eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee</h1>
+
+</div>
+
   @yield('content')
 </body>
 
