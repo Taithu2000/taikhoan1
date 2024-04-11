@@ -26,6 +26,11 @@
           <li class="nav-item">
             <a class="nav-link" href="{{route('register')}}">Sign up</a>
           </li>
+
+          <div>
+    <h1>222222222222222</h1>
+  </div>
+  
         </ul>
       </div>
     </div>
